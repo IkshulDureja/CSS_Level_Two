@@ -1,0 +1,22 @@
+h1{
+  font-family: "arial"
+}
+
+body{
+  font-size: 20 px
+  font-family:monospace;
+}
+
+
+#two{
+  font-size: 2.0em
+}
+
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+#two{
+text-align: center;
+}
